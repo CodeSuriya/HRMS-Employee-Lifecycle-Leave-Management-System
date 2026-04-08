@@ -79,14 +79,14 @@ https://jsuriya454.atlassian.net/jira/software/projects/HRMS/boards/2/backlog?ep
 - Centralized storage of project artifacts
 
 ## Repository Structure
-- /BRD
-- /FRD
-- /Diagrams
-- /Wireframes
-- /Agile
-- /Testing (RTM, UAT)
-- /SOP
-- /Governance
+- BRD
+- FRD
+- Diagrams
+- Wireframes
+- Agile
+- Testing (RTM, UAT)
+- SOP
+- Governance
 
 ## Author
 Jayasuriya J  
